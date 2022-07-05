@@ -1,12 +1,10 @@
 
 <h1 align="center">
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Sajid....;Nice+to+meet+you!&center=true&size=30"></a>
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am+Sajid....;Nice+to+meet+you!&center=true&size=30"></a>
 </h1>
 
-  
-
-<h2 align="center">Hello there! 👋 This is Sajid.</h2>
+<h2 align="center">Hello there! 👋 I am Sajid.</h2>
 
 <p align="center">
 <a href="mailto:sajid.shanta@northsouth.edu" target="_blank"><img alt="GMail" src="https://img.shields.io/badge/-GMAIL-red?&style=for-the-badge&logo=Gmail&logoColor=white"></a>
@@ -15,7 +13,7 @@
 <img alt="Hackerrank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
 </p>
 
-I am S. M. Sajid Hasan Shanta, an final year undergrad student of computer science at North South University aspiring to be a machine learning engineer.  
+I am S. M. Sajid Hasan Shanta, a final year undergrad student of computer science at North South University aspiring to be a machine learning engineer.  
 Currently doing Deep Learning and Computer Vision based research projects.
 
 <p>
