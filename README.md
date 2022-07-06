@@ -60,7 +60,6 @@ Currently doing Deep Learning and Computer Vision based research projects.
 
 & learning and exploring new technologies..
 
-###### Tools
 <p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SajidHShanta&hide_border=false&theme=react&background=0d1117" width="55%" />
 <img src="https://activity-graph.herokuapp.com/graph?username=SajidHShanta&theme=react-dark" width="100%"/>
