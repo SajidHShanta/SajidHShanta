@@ -58,7 +58,7 @@ Currently doing Deep Learning and Computer Vision based research projects.
 <img alt = "OpenCV" src = "https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=OpenCV&logoColor=white" />
 </p>
 
-& learning and exploring new technologies..
++ learning and exploring new technologies..
 
 <p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SajidHShanta&hide_border=false&theme=react&background=0d1117" width="55%" />
