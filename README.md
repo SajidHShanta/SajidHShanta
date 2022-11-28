@@ -13,6 +13,8 @@
 <a href="https://www.hackerrank.com/sajid_shanta07" target="_blank">
 <img alt="Hackerrank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
 
+<br>
+  
 <img src="https://github-readme-stats.vercel.app/api?username=SajidHShanta&count_private=true&show_icons=true&hide=issues&theme=gotham" width="57%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SajidHShanta&hide=MATLAB&langs_count=8&layout=compact&theme=gotham" width="36%" />
 </p>
