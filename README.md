@@ -8,17 +8,15 @@
 <h2 align="center"> 👋 I am Sajid, an iOS developer</h2>
 
 <p align="center">
-<a href="mailto:sajid.shanta@northsouth.edu" target="_blank"><img alt="GMail" src="https://img.shields.io/badge/-GMAIL-red?&style=for-the-badge&logo=Gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/sajidshanta/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://www.hackerrank.com/sajid_shanta07" target="_blank">
 <img alt="Hackerrank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
+</p>
+<p align="center">Read my blog about iOS dev & CS topics: <a href="https://snta.me/" target="_blank"><b>snta.me ✍</b></a></p>
 
-<br>
-  
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=SajidHShanta&count_private=true&show_icons=true&hide=issues&theme=gotham" width="57%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SajidHShanta&hide=MATLAB&langs_count=8&layout=compact&theme=gotham" width="36%" />
-</p>
-
 </p>
 
 I am a fresh graduate. I completed my Bachelor of Science in Computer Science and Engineering from North South University with Deep Learning and Computer Vision-based research projects. I am interested in working with iOS app development. I am currently exploring the best iOS application development practices with SwiftUI.  
@@ -29,9 +27,7 @@ Apart from academics, I have participated in many competitions. I won the 'Secon
 
 - 💬 <b>Ask me about:</b> Stuffs about undergrad CS projects 😄
 
-- 📫 <b>Reach me here:</b> Mail me anytime at <a href="mailto:sajid.shanta@northsouth.edu" target="_blank">  sajid.shanta@northsouth.edu</a>
-
-  
+- 📫 <b>Reach me here:</b><a href="mailto:sajid.shanta7@gmail.com" target="_blank">  sajid.shanta7@gmail.com</a>
 
 ### My Stacks
 ###### Languages
