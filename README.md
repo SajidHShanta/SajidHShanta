@@ -1,11 +1,5 @@
 
-
-<h1 align="center">
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!;Nice+to+meet+you!&center=true&size=30"></a>
-</h1>
-
-<h2 align="center"> 👋 I am Sajid, an iOS developer</h2>
+<h1 align="center"> 👋 I am Sajid, an iOS developer</h2>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/sajidshanta/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -15,19 +9,7 @@
 <p align="center">Read my blog about iOS dev & CS topics: <a href="https://snta.me/" target="_blank"><b>snta.me ✍</b></a></p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=SajidHShanta&count_private=true&show_icons=true&hide=issues&theme=gotham" width="57%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SajidHShanta&hide=MATLAB&langs_count=8&layout=compact&theme=gotham" width="36%" />
-</p>
-
-I am a fresh graduate. I completed my Bachelor of Science in Computer Science and Engineering from North South University with Deep Learning and Computer Vision-based research projects. I am interested in working with iOS app development. I am currently exploring the best iOS application development practices with SwiftUI.  
-  
-Apart from academics, I have participated in many competitions. I won the 'Second Runner Up' title in NASA Space Apps Challenge 2022. I was engaged in co-curricular activities. During my undergraduate studies, I served as the Web-team Coordinator at NSU ACM Student Chapter and Sub-Executive at NSU HR Club. I also volunteered as the deputy leader of my school's Red Crescent Youth team.
-
-<p>
-
-- 💬 <b>Ask me about:</b> Stuffs about undergrad CS projects 😄
-
-- 📫 <b>Reach me here:</b><a href="mailto:sajid.shanta7@gmail.com" target="_blank">  sajid.shanta7@gmail.com</a>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SajidHShanta&hide_border=false&theme=react&background=0d1117" width="55%" /> </p>
 
 ### My Stacks
 ###### Languages
@@ -54,8 +36,21 @@ Apart from academics, I have participated in many competitions. I won the 'Secon
 <img alt = "OpenCV" src = "https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=OpenCV&logoColor=white" />
 </p>
 
-+learning and exploring new technologies..
+
+
+
+I am a fresh graduate. I completed my Bachelor of Science in Computer Science and Engineering from North South University with Deep Learning and Computer Vision-based research projects. I am interested in working with iOS app development. I am currently exploring the best iOS application development practices with SwiftUI.  
+  
+Apart from academics, I have participated in many competitions. I won the 'Second Runner Up' title in NASA Space Apps Challenge 2022. I was engaged in co-curricular activities. During my undergraduate studies, I served as the Web-team Coordinator at NSU ACM Student Chapter and Sub-Executive at NSU HR Club. I also volunteered as the deputy leader of my school's Red Crescent Youth team.
+
+- 💬 <b>Ask me about:</b> Stuffs about undergrad CS projects 😄
+
+- 📫 <b>Reach me here:</b><a href="mailto:sajid.shanta7@gmail.com" target="_blank">  sajid.shanta7@gmail.com</a>
 
 <p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SajidHShanta&hide_border=false&theme=react&background=0d1117" width="55%" />
+<img src="https://github-readme-stats.vercel.app/api?username=SajidHShanta&count_private=true&show_icons=true&hide=issues&theme=gotham" width="57%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SajidHShanta&hide=MATLAB&langs_count=8&layout=compact&theme=gotham" width="36%" />
+</p>
+
+
 <h2 align="center">Happy Coding!</h2>
