@@ -39,17 +39,19 @@
 
 
 
-I am a fresh graduate. I completed my Bachelor of Science in Computer Science and Engineering from North South University with Deep Learning and Computer Vision-based research projects. I am interested in working with iOS app development. I am currently exploring the best iOS application development practices with SwiftUI.  
-  
-Apart from academics, I have participated in many competitions. I won the 'Second Runner Up' title in NASA Space Apps Challenge 2022. I was engaged in co-curricular activities. During my undergraduate studies, I served as the Web-team Coordinator at NSU ACM Student Chapter and Sub-Executive at NSU HR Club. I also volunteered as the deputy leader of my school's Red Crescent Youth team.
+I have completed my graduation in Computer Science and Engineering from North South University with Deep Learning and Computer Vision-based research projects. Currently, I am exploring the best iOS application development practices with SwiftUI. 
+
+I am also passionate about sharing my knowledge and experience with the community. I have started writing blogs about iOS app development and computer science related topics, which can be found on my website: https://snta.me/
+
+Apart from academics, during my undergraduate studies, I also held leadership positions in co-curricular activities such as Web-team Coordinator at NSU ACM Student Chapter, Sub-Executive at NSU HR Club, and volunteering as the deputy leader of my school's Red Crescent Youth team. I also won the 'Second Runner Up' title in NASA Space Apps Challenge 2022. These experiences have helped me develop important skills such as teamwork, leadership, and problem-solving that are valuable in any professional setting.
 
 - 💬 <b>Ask me about:</b> Stuffs about undergrad CS projects 😄
 
 - 📫 <b>Reach me here:</b><a href="mailto:sajid.shanta7@gmail.com" target="_blank">  sajid.shanta7@gmail.com</a>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=SajidHShanta&count_private=true&show_icons=true&hide=issues&theme=gotham" width="57%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SajidHShanta&hide=MATLAB&langs_count=8&layout=compact&theme=gotham" width="36%" />
+<img src="https://github-readme-stats.vercel.app/api?username=SajidHShanta&count_private=true&show_icons=true&hide=issues&theme=gotham" width="45%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SajidHShanta&hide=MATLAB&langs_count=8&layout=compact&theme=gotham" width="30%" />
 </p>
 
 
