@@ -9,7 +9,7 @@
 <p align="center">Read my blog about iOS dev & CS topics: <a href="https://snta.me/" target="_blank"><b>snta.me ✍</b></a></p>
 
 <p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SajidHShanta&hide_border=false&theme=react&background=0d1117" width="55%" /> </p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SajidHShanta&hide_border=false&theme=react&background=0d1117" width="40%" /> </p>
 
 ### My Stacks
 ###### Languages
@@ -39,11 +39,7 @@
 
 
 
-I have completed my graduation in Computer Science and Engineering from North South University with Deep Learning and Computer Vision-based research projects. Currently, I am exploring the best iOS application development practices with SwiftUI. 
-
-I am also passionate about sharing my knowledge and experience with the community. I have started writing blogs about iOS app development and computer science related topics, which can be found on my website: https://snta.me/
-
-Apart from academics, during my undergraduate studies, I also held leadership positions in co-curricular activities such as Web-team Coordinator at NSU ACM Student Chapter, Sub-Executive at NSU HR Club, and volunteering as the deputy leader of my school's Red Crescent Youth team. I also won the 'Second Runner Up' title in NASA Space Apps Challenge 2022. These experiences have helped me develop important skills such as teamwork, leadership, and problem-solving that are valuable in any professional setting.
+I have completed my graduation in Computer Science and Engineering from North South University with Deep Learning and Computer Vision-based research projects. Currently, I am exploring the best iOS application development practices with SwiftUI. I have started writing blogs about iOS app development and computer science related topics, which can be found on: https://snta.me/
 
 - 💬 <b>Ask me about:</b> Stuffs about undergrad CS projects 😄
 
