@@ -4,7 +4,6 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/sajidshanta/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://www.hackerrank.com/sajid_shanta07" target="_blank">
-<img alt="Hackerrank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
 </p>
 <p align="center">Read my blog about iOS dev & CS topics: <a href="https://snta.me/" target="_blank"><b>snta.me ✍</b></a></p>
 
@@ -16,7 +15,6 @@
 <p>
 <img alt="Swoft" src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white" />
 <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=python&logoColor=white" />
-<img alt="C" src="https://img.shields.io/badge/C-A8B9CC.svg?&style=flat-square&logo=C&logoColor=white" />
 <img alt="C++" src="https://img.shields.io/badge/C++-00599C.svg?&style=flat-square&logo=c%2B%2B&logoColor=white" />
 </p>
 
@@ -26,14 +24,11 @@
 <p>
 <img alt="SwiftUI" src="https://img.shields.io/badge/SwiftUI-00599C.svg?&style=flat-square&logo=Swift&logoColor=white" />
 <br>
-<img alt="Django" src="https://img.shields.io/badge/Django-092E20.svg?&style=flat-square&logo=Django&logoColor=white" />
 <img alt="Express.js" src="https://img.shields.io/badge/Express.js-339933.svg?&style=flat-square&logo=Node.js&logoColor=white" />
 <br>
 <img alt = "PyTorch" src = "https://img.shields.io/badge/PyTorch-EE4C2C.svg?&style=flat-square&logo=PyTorch&logoColor=white" />
 <img alt="Numpy" src="https://img.shields.io/badge/Numpy-013243.svg?&style=flat-square&logo=Numpy&logoColor=white" />
 <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?&style=flat-square&logo=Pandas&logoColor=white" />
-<img alt = "Scikit-Learn" src = "https://img.shields.io/badge/SkLearn-F7931E.svg?&style=flat-square&logo=scikit-learn&logoColor=white" />
-<img alt = "OpenCV" src = "https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=OpenCV&logoColor=white" />
 </p>
 
 
