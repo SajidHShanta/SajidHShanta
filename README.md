@@ -8,7 +8,8 @@
 <p align="center">Read my blog about iOS dev & CS topics: <a href="https://snta.me/" target="_blank"><b>snta.me ✍</b></a></p>
 
 <p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SajidHShanta&hide_border=false&theme=react&background=0d1117" width="40%" /> </p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SajidHShanta&hide_border=false&theme=react" width="45%"/>
+</p>
 
 ### My Stacks
 ###### Languages
@@ -41,8 +42,7 @@ I have completed my graduation in Computer Science and Engineering from North So
 - 📫 <b>Reach me here:</b><a href="mailto:sajid.shanta7@gmail.com" target="_blank">  sajid.shanta7@gmail.com</a>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=SajidHShanta&count_private=true&show_icons=true&hide=issues&theme=gotham" width="45%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SajidHShanta&hide=MATLAB&langs_count=8&layout=compact&theme=gotham" width="30%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SajidHShanta&count_private=true&show_icons=true&hide=issues&theme=react" width="45%"/>
 </p>
 
 
