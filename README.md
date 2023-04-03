@@ -26,7 +26,6 @@
 <img alt="SwiftUI" src="https://img.shields.io/badge/SwiftUI-00599C.svg?&style=flat-square&logo=Swift&logoColor=white" />
 <br>
 <img alt="Express.js" src="https://img.shields.io/badge/Express.js-339933.svg?&style=flat-square&logo=Node.js&logoColor=white" />
-<br>
 <img alt = "PyTorch" src = "https://img.shields.io/badge/PyTorch-EE4C2C.svg?&style=flat-square&logo=PyTorch&logoColor=white" />
 <img alt="Numpy" src="https://img.shields.io/badge/Numpy-013243.svg?&style=flat-square&logo=Numpy&logoColor=white" />
 <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?&style=flat-square&logo=Pandas&logoColor=white" />
@@ -42,7 +41,7 @@ I have completed my graduation in Computer Science and Engineering from North So
 - 📫 <b>Reach me here:</b><a href="mailto:sajid.shanta7@gmail.com" target="_blank">  sajid.shanta7@gmail.com</a>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SajidHShanta&count_private=true&show_icons=true&hide=issues&theme=react" width="45%"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SajidHShanta&count_private=true&show_icons=true&hide=issues&theme=react" width="45%"/>
 </p>
 
 
