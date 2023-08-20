@@ -23,12 +23,11 @@
 
 ###### Frameworks/Libraries
 <p>
+<img alt="UiKit" src="https://img.shields.io/badge/UIKit-00599C.svg?&style=flat-square&logo=UiKit&logoColor=white" />
 <img alt="SwiftUI" src="https://img.shields.io/badge/SwiftUI-00599C.svg?&style=flat-square&logo=Swift&logoColor=white" />
 <br>
 <img alt="Express.js" src="https://img.shields.io/badge/Express.js-339933.svg?&style=flat-square&logo=Node.js&logoColor=white" />
 <img alt = "PyTorch" src = "https://img.shields.io/badge/PyTorch-EE4C2C.svg?&style=flat-square&logo=PyTorch&logoColor=white" />
-<img alt="Numpy" src="https://img.shields.io/badge/Numpy-013243.svg?&style=flat-square&logo=Numpy&logoColor=white" />
-<img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?&style=flat-square&logo=Pandas&logoColor=white" />
 </p>
 
 
