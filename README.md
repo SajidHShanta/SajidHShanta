@@ -32,9 +32,9 @@
 </p>
 
 
+I am a passionate iOS app developer with over 1 year of experience and a solid software engineering background. Currently making my mark as a Software Engineer (iOS) at B-Trac Solutions Ltd (Bangla Trac Group).
 
-
-I have completed my graduation in Computer Science and Engineering from North South University with Deep Learning and Computer Vision-based research projects. Currently, I am exploring the best iOS application development practices with SwiftUI. I have started writing blogs about iOS app development and computer science related topics, which can be found on: https://snta.me/
+Passion drives me, and I love sharing my insights with the community. Dive into my blog at https://snta.me/ 
 
 - 💬 <b>Ask me about:</b> Stuffs about undergrad CS projects 😄
 
