@@ -5,11 +5,11 @@
 <a href="https://www.linkedin.com/in/sajidshanta/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://www.hackerrank.com/sajid_shanta07" target="_blank">
 </p>
-<p align="center">Read my blog about iOS dev & CS topics: <a href="https://snta.me/" target="_blank"><b>snta.me ✍</b></a></p>
+<p align="center">Read my blog about iOS dev & CS topics: <a href="https://blog.sajidhasan.com/" target="_blank"><b>blog.sajidhasan.com ✍</b></a></p>
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SajidHShanta&hide_border=false&theme=react" width="45%"/>
-</p>
+<!-- <p align="center">
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=SajidHShanta&hide_border=false&theme=react" width="45%"/>
+ </p> -->
 
 ### My Stacks
 ###### Languages
@@ -33,7 +33,7 @@
 
 I am a passionate iOS app developer with over 1 year of experience and a solid software engineering background. Currently making my mark as a Software Engineer (iOS) at B-Trac Solutions Ltd (Bangla Trac Group).
 
-Passion drives me, and I love sharing my insights with the community. Dive into my blog at https://snta.me/ 
+Passion drives me, and I love sharing my insights with the community. Dive into my blog at https://blog.sajidhasan.com 
 
 - 💬 <b>Ask me about:</b> Stuffs about undergrad CS projects 😄
 
