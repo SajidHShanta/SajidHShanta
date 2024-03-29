@@ -1,6 +1,6 @@
-<p align="center">
-   <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg" alt="Snake animation Contribution Graph">
-</p>
+<!-- <p align="center">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg" alt="Snake animation Contribution Graph">
+ </p>  -->
 <h1 align="center">👋 I'm Sajid, an iOS developer!</h1>
 
 <p align="center">
