@@ -13,7 +13,10 @@
   </a>
 </p>
 
-<p align="center">Explore my projects and check out my blogs at <a href="https://blog.sajidhasan.com/" target="_blank"><b>blog.sajidhasan.com</b></a></p>
+<p align="center">
+  Read my iOS dev blogs →
+  <a href="https://sajidhasan.com/" target="_blank"><b>sajidhasan.com</b></a>
+</p>
 
 <p align="center">
  <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> 
